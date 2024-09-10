@@ -1,6 +1,6 @@
 This is the folder for Typhoon HIL API code.
 
-I run the Typhoon HIL API on VScode by Python language.
+I run the Typhoon HIL API on Visual Studio Code by Python language.
 
 You need to install the [Typhoon-HIL-API](https://pypi.org/project/Typhoon-HIL-API/) first.
 
