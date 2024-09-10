@@ -12,3 +12,8 @@ Here is the hardware environment I built in my lab:
 ![image](https://github.com/liyifu93/Three-Feeder_Co-Simulation_System/blob/main/Figure/Lab_Hardware_Environment.png)
 
 The details of this repository are documented in my paper submitted to the IEEE IAS Annual Meeting 2024 (under review).
+
+For the detailed information, check the following paper and cite me by
+- Li, Yifu, et al. "Time Synchronization in Power Distribution Grids: A Hardware-in-the-Loop Co-Simulation Experiment." 2024 IEEE Industry Applications Society Annual Meeting (IAS). IEEE, 2024.
+
+If there is any problem, please contact me through liyifu@gwu.edu
