@@ -15,5 +15,3 @@ The details of this repository are documented in my paper submitted to the IEEE 
 
 For the detailed information, check the following paper and cite me by
 - Li, Yifu, et al. "Time Synchronization in Power Distribution Grids: A Hardware-in-the-Loop Co-Simulation Experiment." 2024 IEEE Industry Applications Society Annual Meeting (IAS). IEEE, 2024.
-
-If there is any problem, please contact me through liyifu@gwu.edu
