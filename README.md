@@ -6,7 +6,7 @@ Here is the single-line diagram of this system:
 ![image](https://github.com/liyifu93/Three-Feeder_Co-Simulation_System/blob/main/Figure/Three_Feeder_System.png)
 
 Here is the proposed framework for the co-simulation process:
-![image](https://github.com/liyifu93/Three-Feeder_Co-Simulation_System/blob/main/Figure/Proposed_Framework.png)
+![image](https://github.com/liyifu93/Three-Feeder_Co-Simulation_System/blob/main/Figure/Proposed_Framework_v2.png)
 
 Here is the hardware environment I built in my lab:
 ![image](https://github.com/liyifu93/Three-Feeder_Co-Simulation_System/blob/main/Figure/Lab_Hardware_Environment.png)
